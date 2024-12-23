@@ -22,8 +22,8 @@ GEM
     faraday (2.11.0)
       faraday-net_http (>= 2.0, < 3.4)
       logger
-    faraday-multipart (1.0.4)
-      multipart-post (~> 2)
+    faraday-multipart (1.1.0)
+      multipart-post (~> 2.0)
     faraday-net_http (3.3.0)
       net-http
     gem-release (2.2.2)
