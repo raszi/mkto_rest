@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'bundler', '~> 2.0'
-gem 'gem-release', '~> 2.1'
+gem 'gem-release', '~> 2.2'
 gem 'pry-byebug', '~> 3.7'
 gem 'rake', '~> 13.0'
 gem 'rspec', '~> 3.2'
